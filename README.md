@@ -111,8 +111,11 @@ Index: []
 24    7.8      86
 Predicted values: [83.18814104 27.03208774 27.03208774 69.63323162 59.95115347]
 Actual values: [81 30 21 76 62]
+
 ![image](https://github.com/user-attachments/assets/824a9cca-f212-4ea9-8c13-67b71ae80c16)
+
 ![image](https://github.com/user-attachments/assets/018e613e-8c47-4959-ad32-d74626a40194)
+
 
 Mean Squared Error (MSE) = 18.943211722315272
 Mean Absolute Error (MAE) = 3.9207511902099244
